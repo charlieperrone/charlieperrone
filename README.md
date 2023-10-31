@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Charlie Perrone 👋
+
+I'm a Web Developer with over 5 years of professional experience. I have created complex and highly interactive web applications using modern frameworks and tools like React, GraphQL, Typescript, Styled-Components and more. I have designed and implemented frontend infrastructure solutions, focusing on customer experience, performance and scalability. I specialize in developing beautiful UI components and maintaining rich design systems. I particularly enjoying working with Designers and conducting UX research.
+
+I'm available for hire on a freelance, part time or full time basis.
+
+You can reach me by email ay chperrone 'at' gmail 'dot' com
 
 <!--
 **charlieperrone/charlieperrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
