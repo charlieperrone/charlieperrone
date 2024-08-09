@@ -1,6 +1,6 @@
 ### Hi, I'm Charlie Perrone 👋
 
-I'm a Web Developer with over 5 years of professional experience. I have created highly interactive web applications using modern frameworks and tools like React, GraphQL, Typescript and more. I have designed and implemented frontend infrastructure solutions, focusing on customer experience, performance and scalability. I specialize in developing beautiful user interfaces and maintaining rich design systems.
+I'm a Web Developer with over 3 years of professional experience. I have created highly interactive web applications using modern frameworks and tools like React, GraphQL, Typescript and more. I have designed and implemented frontend infrastructure solutions, focusing on customer experience, performance and scalability. I specialize in developing beautiful user interfaces and maintaining rich design systems.
 
 You can reach me by email ay chperrone 'at' gmail 'dot' com
 
